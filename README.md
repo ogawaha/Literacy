@@ -1,3 +1,3 @@
-I love [Wikipedia]https://ja.wikipedia.org
+I love [Wikipedia](https://ja.wikipedia.org)
 
-[テキスト]https://ja.wikipedia.org
+[テキスト](https://ja.wikipedia.org)
