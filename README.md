@@ -1,4 +1,4 @@
-# Literacy　-text in blue
+# Literacy
 
 I love [Wikipedia](https://ja.wikipedia.org)
 
